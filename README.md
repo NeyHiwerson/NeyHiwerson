@@ -13,7 +13,7 @@
 
 ![Ney Hiwerson's github stats](https://github-readme-stats.vercel.app/api?username=NeyHiwerson&show_icons=true&theme=ocean_dark)
 
-![link to my profile at rocketSeat school](https://img.shields.io/badge/Perfil-RocketSeat-brightgreen)
+[![link to my profile at rocketSeat school](https://img.shields.io/badge/Perfil-RocketSeat-brightgreen)](https://app.rocketseat.com.br/me/ney-hiwerson-missias-ribeiro-06346)
 
 <!---
 NeyHiwerson/NeyHiwerson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

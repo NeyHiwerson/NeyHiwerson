@@ -11,6 +11,10 @@
 * [🏖️Beaches near the north of Santa Catarina](https://neyhiwerson.github.io/Projeto-praias-do-norte-de-Santa-Catarina/)
 * [▶️Design of a video course website](https://neyhiwerson.github.io/Projeto-site/)
 
+![Ney Hiwerson's github stats](https://github-readme-stats.vercel.app/api?username=NeyHiwerson&show_icons=true&theme=ocean_dark)
+
+![link to my profile at rocketSeat school](https://img.shields.io/badge/Perfil-RocketSeat-brightgreen)
+
 <!---
 NeyHiwerson/NeyHiwerson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

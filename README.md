@@ -10,7 +10,7 @@
 * [🚀Cracha DoWhile2021](https://neyhiwerson.github.io/NLW/)
 * [🏖️Beaches near the north of Santa Catarina](https://neyhiwerson.github.io/Projeto-praias-do-norte-de-Santa-Catarina/)
 * [▶️Design of a video course website](https://neyhiwerson.github.io/Projeto-site/)
-* [👔Site completo de apresentação](https://neyhiwerson.github.io/site-final/)
+* [👔Full presentation site.](https://neyhiwerson.github.io/site-final/)
 
 ![Ney Hiwerson's github stats](https://github-readme-stats.vercel.app/api?username=NeyHiwerson&show_icons=true&theme=ocean_dark)
 

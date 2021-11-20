@@ -11,6 +11,7 @@
 * [🏖️Beaches near the north of Santa Catarina](https://neyhiwerson.github.io/Projeto-praias-do-norte-de-Santa-Catarina/)
 * [▶️Design of a video course website](https://neyhiwerson.github.io/Projeto-site/)
 * [👔Full presentation site.](https://neyhiwerson.github.io/site-final/)
+* [🍕Pizzaria do Nôno.](https://neyhiwerson.github.io/pizzaria-do-nono/)
 
 ![Ney Hiwerson's github stats](https://github-readme-stats.vercel.app/api?username=NeyHiwerson&show_icons=true&theme=ocean_dark)
 
